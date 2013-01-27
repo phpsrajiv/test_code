@@ -9,6 +9,6 @@ Common Issues
     Do you have custom plans?
     Can I pay with something other than a credit card?
     Why is Git always asking for my password?
-    Error: Cannot log in: "That account is an organization"
-    My repo is marked as the wrong language
+    
     Dealing with non-fast-forward errors
+hi
