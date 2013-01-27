@@ -1,1 +1,14 @@
-hello test code
+Common Issues
+
+    What is my disk quota?
+    Remove sensitive data
+    Can I add extra information to my receipts?
+    HTTPS cloning errors
+    What are the different access permissions?
+    How do I access my organization account?
+    Do you have custom plans?
+    Can I pay with something other than a credit card?
+    Why is Git always asking for my password?
+    Error: Cannot log in: "That account is an organization"
+    My repo is marked as the wrong language
+    Dealing with non-fast-forward errors
